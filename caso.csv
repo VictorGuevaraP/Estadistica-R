@@ -1,0 +1,121 @@
+Empresa;Género;Edad;Llamadas;Tiempo 1;Tiempo 2;Monto;Espera;Opinión
+Pintel;Femenino;26;4;27;26.1;89.7;0.8;Excelente
+Pintel;Masculino;33;2;30.1;20.5;88.8;0.4;Muy Bueno
+Pintel;Masculino;21;8;26;34.4;85.4;3.5;Bueno
+Pintel;Femenino;23;8;34.1;36.1;89;4.7;Pésimo
+Pintel;Masculino;34;1;30.1;28.9;77.1;2.2;Bueno
+Pintel;Femenino;29;6;30.7;20.9;97.8;5.1;Pésimo
+Pintel;Masculino;21;5;26.5;32;84;2.8;Regular
+Pintel;Femenino;40;5;28.3;29.8;84.2;5.8;Muy Bueno
+Pintel;Femenino;25;6;29.7;31.1;91.7;4.2;Excelente
+Pintel;Femenino;38;5;32.5;27.6;74.1;0.8;Regular
+Pintel;Femenino;35;4;24.7;29.9;88.8;9.5;Muy Bueno
+Pintel;Femenino;31;6;24.8;32.9;91.6;2.6;Pésimo
+Pintel;Femenino;28;7;32.2;23.7;80;4.5;Muy Bueno
+Pintel;Femenino;26;0;26.7;22.7;88.4;1.3;Bueno
+Pintel;Masculino;26;9;31.4;24.3;78.5;2.6;Muy Bueno
+Pintel;Femenino;33;5;31.1;30.1;88.3;5.5;Pésimo
+Pintel;Femenino;34;6;26.7;23.8;85.6;2.7;Bueno
+Pintel;Femenino;22;6;34.1;17.5;88.6;11.5;Pésimo
+Pintel;Femenino;26;6;27.2;29.9;78.8;0.5;Excelente
+Pintel;Femenino;39;7;28.4;36.3;81.6;1.3;Excelente
+Oscuro;Masculino;31;0;49.6;31.8;86.3;5.3;Pésimo
+Oscuro;Femenino;22;7;28.6;33;83.8;1.2;Muy Bueno
+Oscuro;Femenino;28;4;37.3;31.7;90.7;1.7;Muy Bueno
+Oscuro;Femenino;35;5;33.9;31.4;95.7;20.5;Pésimo
+Oscuro;Masculino;22;3;38;26.9;99.3;3.3;Muy Bueno
+Oscuro;Femenino;40;4;41.7;35.5;83.3;0.3;Regular
+Oscuro;Femenino;34;1;38.3;39.9;97.3;1.7;Pésimo
+Oscuro;Masculino;28;3;41.3;39.3;88.1;13.4;Pésimo
+Oscuro;Masculino;28;5;39.2;39.1;81.9;10.1;Pésimo
+Oscuro;Femenino;32;2;40.5;40;83.8;2.8;Excelente
+Oscuro;Femenino;24;2;41.4;47.3;82.2;0.2;Excelente
+Oscuro;Femenino;34;3;38.2;36.5;91.5;3.8;Pésimo
+Oscuro;Femenino;20;3;48.6;37.5;82.8;16.5;Pésimo
+Oscuro;Masculino;34;3;33.2;33.1;94.3;3.9;Pésimo
+Oscuro;Femenino;20;2;41;36.1;96.5;26.6;Pésimo
+Oscuro;Femenino;29;7;41.7;20.4;78.8;2.4;Muy Bueno
+Oscuro;Masculino;31;4;37.8;41.7;83.3;27.9;Pésimo
+Oscuro;Masculino;22;4;38.5;33.3;95.6;0.3;Muy Bueno
+Oscuro;Masculino;38;4;44.1;26.3;78.3;8.8;Excelente
+Oscuro;Femenino;36;5;37.9;38.8;87.8;1.1;Regular
+Oscuro;Femenino;33;5;46.8;38;95.8;2.4;Bueno
+Oscuro;Femenino;36;1;47.5;43;84.7;2.5;Bueno
+Oscuro;Femenino;33;5;34.6;34.3;100.2;0.3;Muy Bueno
+Oscuro;Masculino;23;8;47.5;37.4;82.5;2.7;Excelente
+Oscuro;Masculino;35;2;35;42;82.6;22.7;Pésimo
+Oscuro;Femenino;24;8;36.8;38.6;94.5;4.5;Bueno
+Oscuro;Masculino;32;1;43.6;43.2;86.3;4.6;Bueno
+Oscuro;Masculino;32;3;35.2;35.7;88.3;8.2;Excelente
+Oscuro;Femenino;27;8;37.8;34.4;83.7;5.2;Regular
+Oscuro;Masculino;37;4;37.7;43.1;83.8;4;Muy Bueno
+Teleafonica;Masculino;32;8;41.5;41.8;84.1;12.5;Pésimo
+Teleafonica;Masculino;33;7;50.3;48.5;83.2;23.7;Pésimo
+Teleafonica;Masculino;35;8;33.6;43.8;84.8;2.7;Regular
+Teleafonica;Masculino;39;9;52;45.5;98.9;36;Pésimo
+Teleafonica;Masculino;34;5;50.4;37;119.1;0.5;Excelente
+Teleafonica;Masculino;38;8;36.2;37.2;103.4;1.6;Excelente
+Teleafonica;Femenino;39;4;39.8;39.8;109.6;1.7;Regular
+Teleafonica;Femenino;36;5;43.2;45.8;97.5;18.5;Pésimo
+Teleafonica;Masculino;36;7;44.8;28.8;94.8;4.2;Excelente
+Teleafonica;Femenino;38;8;41.2;48;93.1;23.7;Pésimo
+Teleafonica;Masculino;24;10;53.8;32.8;108;5.3;Pésimo
+Teleafonica;Femenino;36;8;43.6;30.9;101;3.5;Pésimo
+Teleafonica;Femenino;27;6;40.7;36.4;89.6;3.2;Regular
+Teleafonica;Femenino;39;6;48.5;41.5;102.2;13;Pésimo
+Teleafonica;Femenino;31;6;57.7;41.6;106.7;0.4;Bueno
+Teleafonica;Masculino;35;3;46;47.4;104;8.8;Regular
+Teleafonica;Masculino;30;8;49.9;38.6;100.6;0.2;Bueno
+Teleafonica;Femenino;35;7;47.5;38.6;104.1;6.2;Pésimo
+Teleafonica;Masculino;29;2;59.6;41.8;78.9;13.6;Pésimo
+Teleafonica;Masculino;31;6;55;37.2;101.6;4;Regular
+Teleafonica;Masculino;28;6;32.6;39.8;114.6;0.5;Bueno
+Teleafonica;Masculino;25;7;37.6;43;102.9;11.2;Pésimo
+Teleafonica;Masculino;38;9;41.8;44.8;114.5;13;Pésimo
+Teleafonica;Masculino;37;5;62.2;37.9;106;0.8;Bueno
+Teleafonica;Masculino;32;4;45.6;37.1;100.6;2.2;Bueno
+Teleafonica;Femenino;37;7;48.6;38.9;103;4.8;Excelente
+Teleafonica;Masculino;25;5;39.7;38.5;110.5;2.2;Muy Bueno
+Teleafonica;Femenino;26;3;25.7;40.4;112.4;4;Regular
+Teleafonica;Masculino;40;4;40.4;31.4;90.7;16.9;Pésimo
+Teleafonica;Femenino;40;8;46.3;40.4;112.5;1.5;Muy Bueno
+Teleafonica;Masculino;30;4;43.6;37.6;108.3;2.8;Excelente
+Teleafonica;Masculino;27;6;39.7;34.5;114.5;4.6;Regular
+Teleafonica;Femenino;28;8;55.2;43.6;106;3.5;Bueno
+Teleafonica;Masculino;24;13;39.1;41.7;99;4;Bueno
+Teleafonica;Femenino;33;6;51.6;43.9;90.2;14.5;Pésimo
+Teleafonica;Femenino;21;7;44.1;37.8;102.5;3.1;Pésimo
+Teleafonica;Femenino;28;9;39;43.7;92.2;4.7;Excelente
+Teleafonica;Femenino;21;8;52.2;46.1;110.1;3.9;Pésimo
+Teleafonica;Masculino;29;3;53.6;37.6;96.5;6.6;Muy Bueno
+Teleafonica;Masculino;36;2;36.3;42;92;11.7;Pésimo
+TelVi;Masculino;34;0;24.3;41.2;84.2;2.6;Bueno
+TelVi;Masculino;28;7;30.1;53.8;91.7;5.5;Pésimo
+TelVi;Masculino;28;4;23.8;43.6;74.1;2.7;Pésimo
+TelVi;Masculino;32;5;17.5;40.7;88.8;11.5;Regular
+TelVi;Masculino;24;3;29.9;48.5;91.6;0.5;Bueno
+TelVi;Masculino;34;4;36.3;57.7;80;1.3;Pésimo
+TelVi;Femenino;20;1;31.8;46;88.4;5.3;Pésimo
+TelVi;Femenino;34;3;33;49.9;78.5;1.2;Bueno
+TelVi;Masculino;20;5;31.7;47.5;88.3;1.7;Bueno
+TelVi;Femenino;29;2;31.4;59.6;85.6;20.5;Excelente
+TelVi;Masculino;31;2;26.9;55;88.6;3.3;Muy Bueno
+TelVi;Masculino;22;3;17.5;32.6;78.8;0.3;Regular
+TelVi;Masculino;38;3;29.9;37.6;81.6;1.7;Pésimo
+TelVi;Masculino;36;3;36.3;41.8;86.3;2.2;Muy Bueno
+TelVi;Masculino;33;2;31.8;36.3;83.8;4;Excelente
+TelVi;Masculino;27;7;33;24.3;90.7;16.9;Regular
+TelVi;Femenino;28;4;31.7;30.1;95.7;1.5;Bueno
+TelVi;Femenino;24;9;31.4;23.8;99.3;2.8;Pésimo
+TelVi;Masculino;33;5;26.9;17.5;83.3;4.6;Pésimo
+TelVi;Masculino;21;4;35.5;29.9;97.3;3.5;Excelente
+TelVi;Masculino;28;7;39.9;33.6;114.5;4;Pésimo
+TelVi;Masculino;21;5;39.3;52;106;14.5;Muy Bueno
+TelVi;Femenino;29;3;37.8;50.4;99;2.7;Pésimo
+TelVi;Masculino;26;4;43.7;36.2;90.2;11.5;Bueno
+TelVi;Masculino;40;8;46.1;39.8;102.5;0.5;Pésimo
+TelVi;Masculino;40;4;37.6;43.2;92.2;1.3;Pésimo
+TelVi;Masculino;30;6;42;52.2;110.1;5.3;Bueno
+TelVi;Masculino;27;4;43;53.6;96.5;1.2;Bueno
+TelVi;Masculino;28;5;44.8;36.3;88.3;1.7;Excelente
+TelVi;Masculino;24;3;37.6;31.8;85.6;20.5;Muy Bueno
