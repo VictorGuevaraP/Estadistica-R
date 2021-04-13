@@ -1,4 +1,4 @@
-Edad;Sexo;Dolor.Pecho;Presion.Arterial;Colesterol;Azucar.Sangre;restecg;Frecuencia.Cardiaca;Angina;depresión;pendiente ;Número.vasos ;Objetivo
+Edad;Sexo;Dol.Pecho;Pres.Arterial;Colesterol;Azu.Sangre;Electro;Frec.Cardiaca;Angina;depresión;pendiente ;N.vasos ;Objetivo
 63;1;dolor no anginoso;145;233;1;normal;150;No;2.3;Ascendente;0;Si
 37;1;angina atípica;130;250;0;anomalía de la onda;187;No;3.5;Ascendente;0;Si
 41;0;angina típica;130;204;0;normal;172;No;1.4;Descendente;0;Si
