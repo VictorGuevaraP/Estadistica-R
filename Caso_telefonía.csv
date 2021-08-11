@@ -1,0 +1,81 @@
+Código;Género;Sucursal;Edad;Llamadas;Minutos;Monto;Tiempo;Opinión
+CLIPE1;Masculino;Suc. Este;27;7;33;90.7;16.9;Regular
+CLIPE2;Femenino;Suc. Este;28;4;31.7;95.7;1.5;Bueno
+CLIPE3;Masculino;Suc. Este;28;7;39.9;114.5;4;Pésimo
+CLIPE4;Masculino;Suc. Este;21;5;39.3;106;14.5;Muy Bueno
+CLIPE5;Femenino;Suc. Este;29;3;37.8;99;2.7;Pésimo
+CLIPE6;Masculino;Suc. Este;26;4;43.7;90.2;11.5;Bueno
+CLIPE7;Masculino;Suc. Este;40;8;46.1;102.5;0.5;Pésimo
+CLIPE8;Masculino;Suc. Este;40;4;37.6;92.2;1.3;Pésimo
+CLIPE9;Masculino;Suc. Este;30;6;42;110.1;5.3;Bueno
+CLIPE10;Masculino;Suc. Este;27;4;43;96.5;1.2;Bueno
+CLIPE11;Masculino;Suc. Este;28;5;44.8;88.3;1.7;Excelente
+CLIPE12;Masculino;Suc. Este;24;3;37.6;85.6;20.5;Muy Bueno
+CLIPE13;Femenino;Suc. Norte;26;4;27;89.7;0.8;Excelente
+CLIPE14;Masculino;Suc. Norte;33;2;30.1;88.8;0.4;Muy Bueno
+CLIPE15;Masculino;Suc. Norte;21;5;26.5;84;2.8;Regular
+CLIPE16;Femenino;Suc. Norte;40;5;28.3;84.2;5.8;Muy Bueno
+CLIPE17;Femenino;Suc. Norte;25;6;29.7;91.7;4.2;Excelente
+CLIPE18;Femenino;Suc. Norte;38;5;32.5;74.1;0.8;Regular
+CLIPE19;Femenino;Suc. Norte;35;4;24.7;88.8;9.5;Muy Bueno
+CLIPE20;Femenino;Suc. Norte;31;6;24.8;91.6;2.6;Pésimo
+CLIPE21;Femenino;Suc. Norte;28;7;32.2;80;4.5;Muy Bueno
+CLIPE22;Femenino;Suc. Norte;26;1;26.7;88.4;1.3;Bueno
+CLIPE23;Masculino;Suc. Norte;26;9;31.4;78.5;2.6;Muy Bueno
+CLIPE24;Femenino;Suc. Norte;33;5;31.1;88.3;5.5;Pésimo
+CLIPE25;Femenino;Suc. Norte;34;6;26.7;85.6;2.7;Bueno
+CLIPE26;Femenino;Suc. Norte;22;6;34.1;88.6;11.5;Pésimo
+CLIPE27;Femenino;Suc. Norte;26;6;27.2;78.8;0.5;Excelente
+CLIPE28;Femenino;Suc. Norte;39;7;28.4;81.6;1.3;Excelente
+CLIPE29;Masculino;Suc. Sur;31;1;49.6;86.3;5.3;Pésimo
+CLIPE30;Femenino;Suc. Sur;22;7;28.6;83.8;1.2;Muy Bueno
+CLIPE31;Femenino;Suc. Sur;28;4;37.3;90.7;1.7;Muy Bueno
+CLIPE32;Femenino;Suc. Sur;35;5;33.9;95.7;20.5;Pésimo
+CLIPE33;Masculino;Suc. Sur;22;3;38;99.3;3.3;Muy Bueno
+CLIPE34;Femenino;Suc. Sur;40;4;41.7;83.3;0.3;Regular
+CLIPE35;Femenino;Suc. Sur;34;1;38.3;97.3;1.7;Pésimo
+CLIPE36;Femenino;Suc. Sur;20;3;48.6;82.8;16.5;Pésimo
+CLIPE37;Masculino;Suc. Sur;34;3;33.2;94.3;3.9;Pésimo
+CLIPE38;Femenino;Suc. Sur;20;2;41;96.5;26.6;Pésimo
+CLIPE39;Femenino;Suc. Sur;29;7;41.7;78.8;2.4;Muy Bueno
+CLIPE40;Femenino;Suc. Sur;33;5;34.6;100.2;0.3;Muy Bueno
+CLIPE41;Masculino;Suc. Sur;23;8;47.5;82.5;2.7;Excelente
+CLIPE42;Masculino;Suc. Sur;35;2;35;82.6;22.7;Pésimo
+CLIPE43;Femenino;Suc. Sur;24;8;36.8;94.5;4.5;Bueno
+CLIPE44;Masculino;Suc. Sur;32;1;43.6;86.3;4.6;Bueno
+CLIPE45;Masculino;Suc. Sur;32;3;35.2;88.3;8.2;Excelente
+CLIPE46;Femenino;Suc. Sur;27;8;37.8;83.7;5.2;Regular
+CLIPE47;Masculino;Suc. Sur;37;4;37.7;83.8;4;Muy Bueno
+CLIPE48;Masculino;Suc. Centro;32;8;41.5;84.1;12.5;Pésimo
+CLIPE49;Masculino;Suc. Centro;33;7;50.3;83.2;23.7;Pésimo
+CLIPE50;Masculino;Suc. Centro;35;8;33.6;84.8;2.7;Regular
+CLIPE51;Masculino;Suc. Centro;39;9;52;98.9;36;Pésimo
+CLIPE52;Masculino;Suc. Centro;34;5;50.4;119.1;0.5;Excelente
+CLIPE53;Masculino;Suc. Centro;38;8;36.2;103.4;1.6;Excelente
+CLIPE54;Femenino;Suc. Centro;39;4;39.8;109.6;1.7;Regular
+CLIPE55;Masculino;Suc. Centro;37;5;62.2;106;0.8;Bueno
+CLIPE56;Masculino;Suc. Centro;32;4;45.6;100.6;2.2;Bueno
+CLIPE57;Femenino;Suc. Centro;37;7;48.6;103;4.8;Excelente
+CLIPE58;Masculino;Suc. Centro;25;5;39.7;110.5;2.2;Muy Bueno
+CLIPE59;Femenino;Suc. Centro;26;3;25.7;112.4;4;Regular
+CLIPE60;Masculino;Suc. Centro;40;4;40.4;90.7;16.9;Pésimo
+CLIPE61;Femenino;Suc. Centro;40;8;46.3;112.5;1.5;Muy Bueno
+CLIPE62;Masculino;Suc. Centro;30;4;43.6;108.3;2.8;Excelente
+CLIPE63;Femenino;Suc. Centro;28;8;55.2;106;3.5;Bueno
+CLIPE64;Masculino;Suc. Centro;24;13;39.1;99;4;Bueno
+CLIPE65;Femenino;Suc. Centro;33;6;51.6;90.2;14.5;Pésimo
+CLIPE66;Femenino;Suc. Centro;21;7;44.1;102.5;3.1;Pésimo
+CLIPE67;Femenino;Suc. Centro;28;9;39;92.2;4.7;Excelente
+CLIPE68;Femenino;Suc. Centro;21;8;52.2;110.1;3.9;Pésimo
+CLIPE69;Masculino;Suc. Centro;29;3;53.6;96.5;6.6;Muy Bueno
+CLIPE70;Masculino;Suc. Centro;36;2;36.3;92;11.7;Pésimo
+CLIPE71;Masculino;Suc. Este;34;1;24.3;84.2;2.6;Bueno
+CLIPE72;Femenino;Suc. Este;20;1;31.8;88.4;5.3;Pésimo
+CLIPE73;Femenino;Suc. Este;34;3;33;78.5;1.2;Bueno
+CLIPE74;Masculino;Suc. Este;20;5;31.7;88.3;1.7;Bueno
+CLIPE75;Femenino;Suc. Este;29;2;31.4;85.6;20.5;Excelente
+CLIPE76;Masculino;Suc. Este;31;2;26.9;88.6;3.3;Muy Bueno
+CLIPE77;Masculino;Suc. Este;22;3;17.5;78.8;0.3;Regular
+CLIPE78;Masculino;Suc. Este;38;3;29.9;81.6;1.7;Pésimo
+CLIPE79;Masculino;Suc. Este;36;3;36.3;86.3;2.2;Muy Bueno
+CLIPE80;Masculino;Suc. Este;33;2;31.8;83.8;4;Excelente
