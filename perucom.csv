@@ -1,4 +1,4 @@
-Género;Edad;Llamadas;Minutos;Monto facturado;Tiempo de espera;Sucursal;Opinión
+Genero;Edad;Llamadas;Minutos;Monto;Tiempo;Sucursal;Opinión
 Masculino;27;7;33;90.7;16.9;Suc. Este;Regular
 Femenino;28;4;31.7;95.7;1.5;Suc. Este;Bueno
 Femenino;24;9;31.4;99.3;2.8;Suc. Este;Pésimo
